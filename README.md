@@ -6,9 +6,9 @@ GerberFiles提供处理好的Gerber文件可以打包直接加工
 
 ![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/View.jpg)
 
-## 原理图
+## PCB尺寸
 
-![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_Sch.png)
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_brd.jpg)
 
 ## 参数
 
@@ -23,6 +23,3 @@ GerberFiles提供处理好的Gerber文件可以打包直接加工
 
 MP2565相当于MP1584的高压版本，相比MP1584，MosFet耐压从28V提高到50V，对24V电压降压稳压更保险
 
-## PCB尺寸
-
-![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_brd.jpg)
