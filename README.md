@@ -2,22 +2,22 @@
 
 GerberFiles提供处理好的Gerber文件可以打包直接加工
 
-## PCB正反面
-
-![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/View.jpg)
-
 ## PCB尺寸
 
 ![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_brd.jpg)
 
+## PCB正反面
+
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/View.jpg)
+
+
 ## 参数
 
-典型输出5V/2.5A, 建议输入电压12-24V
+典型输出5V/2.5A, 建议输入电压12-24V，开关频率500KHz
 
 ## 适用MP1584
 
-此电路板基本按照datasheet的示例布板
-修改R4为24.9k可以Pin to Pin使用MP1584，对于MP2565，R4为17.4k，详见datasheet P15和P16
+此电路板基本按照datasheet的示例布板，修改R4为24.9k可以Pin to Pin使用MP1584，对于MP2565，R4为17.4k，详见datasheet P15和P16
 
 ## MP2565 与 MP1584
 
