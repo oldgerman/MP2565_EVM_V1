@@ -1,11 +1,14 @@
 # MP2565 评估板 V1.0 
+
+GerberFiles提供处理好的Gerber文件可以打包直接加工
+
 ## PCB正反面
 
-![](https://github.com/oldgerman/MP2565_EVM_V1/image/View.jpg)
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/View.jpg)
 
 ## 原理图
 
-![](https://github.com/oldgerman/MP2565_EVM_V1/image/Eagle_Sch.png)
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_Sch.png)
 
 ## 参数
 
@@ -22,4 +25,4 @@ MP2565相当于MP1584的高压版本，相比MP1584，MosFet耐压从28V提高�
 
 ## PCB尺寸
 
-![](https://github.com/oldgerman/MP2565_EVM_V1/image/Eagle_Brd.jpg)
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_Brd.jpg)
