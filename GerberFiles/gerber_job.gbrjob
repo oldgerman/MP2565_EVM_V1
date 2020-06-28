@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-06-28T13:47:42Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MP2565_dev_v1"
+        },
+        "Owner": "Shiao Peng <2920956602@qq.com>",
+        "Size": {
+            "X": 38.735,
+            "Y": 27.94
+        }
+    }
+}
