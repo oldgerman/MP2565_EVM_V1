@@ -5,7 +5,7 @@ GerberFiles提供处理好的Gerber文件可以打包直接加工
 ## PCB尺寸
 
 ![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_brd.jpg)
-B
+
 ## B.O.M
 
 | Column1 | Column5   | Column6 |
