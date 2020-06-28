@@ -10,6 +10,23 @@ GerberFiles提供处理好的Gerber文件可以打包直接加工
 
 ![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/View.jpg)
 
+## B.O.M
+
+| Column1 | Column5   | Column6 |
+| ------- | --------- | ------- |
+| C1      | 10uF/50V  | 1206    |
+| C2      | 22uF/16V  | 1206    |
+| C3      | 150pF/50V | 0603    |
+| C4      | 100nF/50V | 0603    |
+| D1      | SS34F     | SMAF    |
+| L1      | 15uH      | L0630   |
+| R1      | 210k      | 0603    |
+| R2      | 40.2k     | 0603    |
+| R3      | 100k      | 0603    |
+| R4      | 17.4k     | 0603    |
+| R5      | 100k      | 0603    |
+| R6      | 200k      | 0603    |
+| U1      | MP2565DN  | ESOP8   |
 
 ## 参数
 
