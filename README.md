@@ -27,6 +27,7 @@ GerberFiles提供处理好的Gerber文件可以打包直接加工
 | R5      | 100k      | 0603    |
 | R6      | 200k      | 0603    |
 | U1      | MP2565DN  | ESOP8   |
+| J1 J2   | KP301-2P  | 3.75mm  |
 
 ## 参数
 
