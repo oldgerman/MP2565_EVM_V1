@@ -6,7 +6,7 @@
 
 ## B.O.M
 
-| Column1 | Column5   | Column6 |
+|   NAME  |   VALUE   | PACKAGE |		
 | ------- | --------- | ------- |
 | C1      | 10uF/50V  | 1206    |
 | C2      | 22uF/16V  | 1206    |
