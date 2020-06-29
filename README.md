@@ -2,7 +2,7 @@
 
 ## PCB尺寸
 
-![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_brd.jpg)
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_Brd.jpg)
 
 ## B.O.M
 
