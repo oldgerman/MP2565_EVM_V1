@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MP2565_dev_v1.sch at 2020/6/28 21:47
 
 Qty Value     Device          Package             Parts                  Description        
@@ -15,3 +16,23 @@ Qty Value     Device          Package             Parts                  Descrip
 1   40.2k     RESISTOR0603    0603                R2                     Resistors          
 1   MP2565DN  MP2565DN        ESOP8L-1.27-5X3.9MM U1                                        
 1   SS34F     SS34F           SMAF                D1                                        
+=======
+Partlist exported from C:/Users/29209/OneDrive/文档/EAGLE/projects/D1 mini电烙铁模块/MP2565_EVM_V1/Eagle_PCB/MP2565_dev_v1.sch at 2020/6/28 23:41
+
+Qty Value        Device          Package             Parts                  Description              DESIGNER REV
+2                KF301_2P-5.0MM  KF301__2P-5.0MM     J1, J2                                                      
+4                SUN_HOLE_M3     SUN_HOLE_M3         U$13, U$14, U$15, U$16                                      
+2   100k         RESISTOR0603    0603                R3, R5                 Resistors                            
+1   100nF        CAP_CERAMIC0603 0603                C4                     Ceramic Capacitors                   
+1   10uF/50V     CAP_CERAMIC1206 1206                C1                     Ceramic Capacitors                   
+1   150pF        CAP_CERAMIC0603 0603                C3                     Ceramic Capacitors                   
+1   15uH         INDUCTOR'0630'  L0630               L1                                                          
+1   17.4k        RESISTOR0603    0603                R4                     Resistors                            
+1   200k         RESISTOR0603    0603                R6                     Resistors                            
+1   210k         RESISTOR0603    0603                R1                     Resistors                            
+1   22uF/6.3V    CAP_CERAMIC1206 1206                C2                     Ceramic Capacitors                   
+1   40.2k        RESISTOR0603    0603                R2                     Resistors                            
+1   FRAME-LETTER FRAME-LETTER    CREATIVE_COMMONS    FRAME1                 Schematic Frame - Letter             
+1   MP2565DN     MP2565DN        ESOP8L-1.27-5X3.9MM U1                                                          
+1   SS34F        SS34F           SMAF                D1                                                          
+>>>>>>> ...

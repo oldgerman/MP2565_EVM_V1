@@ -1,7 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
+<<<<<<< HEAD
         "CreationDate": "2020-06-28T13:47:42Z",
+=======
+        "CreationDate": "2020-06-28T15:41:42Z",
+>>>>>>> ...
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",

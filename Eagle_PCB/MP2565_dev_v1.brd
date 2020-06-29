@@ -3,7 +3,11 @@
 <eagle version="9.6.0">
 <drawing>
 <settings>
+<<<<<<< HEAD
 <setting alwaysvectorfont="no"/>
+=======
+<setting alwaysvectorfont="yes"/>
+>>>>>>> ...
 <setting verticaltext="up"/>
 </settings>
 <grid distance="5" unitdist="mil" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -52,7 +56,11 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<<<<<<< HEAD
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+=======
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+>>>>>>> ...
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
@@ -208,6 +216,7 @@
 <wire x1="12.954" y1="6.35" x2="12.7" y2="6.604" width="0" layer="20" curve="-90"/>
 <wire x1="12.954" y1="21.59" x2="12.7" y2="21.336" width="0" layer="20" curve="90"/>
 <wire x1="-12.954" y1="21.59" x2="-12.7" y2="21.336" width="0" layer="20" curve="-90"/>
+<<<<<<< HEAD
 <hole x="-12.7" y="22.1488" drill="0.508"/>
 <hole x="-12.7" y="23.0124" drill="0.508"/>
 <hole x="-12.7" y="23.876" drill="0.508"/>
@@ -236,6 +245,36 @@
 <hole x="-12.7" y="4.064" drill="0.508"/>
 <hole x="-12.7" y="4.9276" drill="0.508"/>
 <hole x="-12.7" y="5.7912" drill="0.508"/>
+=======
+<hole x="-12.7" y="22.1488" drill="0.35"/>
+<hole x="-12.7" y="23.0124" drill="0.35"/>
+<hole x="-12.7" y="23.876" drill="0.35"/>
+<hole x="-12.7" y="24.7396" drill="0.35"/>
+<hole x="-12.7" y="25.6032" drill="0.35"/>
+<hole x="-12.7" y="26.4668" drill="0.35"/>
+<hole x="-12.7" y="27.3304" drill="0.35"/>
+<hole x="12.7" y="22.1488" drill="0.35"/>
+<hole x="12.7" y="23.0124" drill="0.35"/>
+<hole x="12.7" y="23.876" drill="0.35"/>
+<hole x="12.7" y="24.7396" drill="0.35"/>
+<hole x="12.7" y="25.6032" drill="0.35"/>
+<hole x="12.7" y="26.4668" drill="0.35"/>
+<hole x="12.7" y="27.3304" drill="0.35"/>
+<hole x="12.7" y="0.6096" drill="0.35"/>
+<hole x="12.7" y="1.4732" drill="0.35"/>
+<hole x="12.7" y="2.3368" drill="0.35"/>
+<hole x="12.7" y="3.2004" drill="0.35"/>
+<hole x="12.7" y="4.064" drill="0.35"/>
+<hole x="12.7" y="4.9276" drill="0.35"/>
+<hole x="12.7" y="5.7912" drill="0.35"/>
+<hole x="-12.7" y="0.6096" drill="0.35"/>
+<hole x="-12.7" y="1.4732" drill="0.35"/>
+<hole x="-12.7" y="2.3368" drill="0.35"/>
+<hole x="-12.7" y="3.2004" drill="0.35"/>
+<hole x="-12.7" y="4.064" drill="0.35"/>
+<hole x="-12.7" y="4.9276" drill="0.35"/>
+<hole x="-12.7" y="5.7912" drill="0.35"/>
+>>>>>>> ...
 <rectangle x1="-11.03" y1="25.06585" x2="-10.5574" y2="25.08215" layer="200"/>
 <rectangle x1="-10.1662" y1="25.06585" x2="-9.6609" y2="25.08215" layer="200"/>
 <rectangle x1="-9.286" y1="25.06585" x2="-8.7807" y2="25.08215" layer="200"/>
