@@ -1,12 +1,14 @@
 # MP2565 评估板 V1.0 
 
+![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/MP2565_EVM_V1_Module.JPG)
+
 ## PCB尺寸
 
 ![](https://github.com/oldgerman/MP2565_EVM_V1/blob/master/image/Eagle_Brd.jpg)
 
 ## B.O.M
 
-|   NAME  |   VALUE   | PACKAGE |		
+|   NAME  |   VALUE   | PACKAGE |
 | ------- | --------- | ------- |
 | C1      | 10uF/50V  | 1206    |
 | C2      | 22uF/16V  | 1206    |
@@ -35,3 +37,6 @@
 
 MP2565相当于MP1584的高压版本，相比MP1584，MosFet耐压从28V提高到50V，对24V电压降压稳压更保险
 
+## 注意
+
+若使用40V以上的输入电源，D1需要换成SS36，或同等规格的Schottky，请自行更改焊盘
